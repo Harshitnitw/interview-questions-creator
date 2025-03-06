@@ -1,0 +1,19 @@
+langchain
+langchain-community
+langchain-core
+langchain-mistralai
+transformers
+transformers[sentencepiece]
+langchain-mistralai
+pypdf
+protobuf
+tiktoken
+aiofiles
+fastapi
+uvicorn
+jinja2
+python-multipart
+PyPDF2
+faiss-cpu
+python-dotenv
+-e .
